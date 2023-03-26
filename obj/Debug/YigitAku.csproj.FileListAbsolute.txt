@@ -1,0 +1,16 @@
+C:\Users\Nur Seda\Desktop\YigitAku\obj\Debug\YigitAku.csproj.AssemblyReference.cache
+C:\Users\Nur Seda\Desktop\YigitAku\obj\Debug\YigitAku.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nur Seda\Desktop\YigitAku\obj\Debug\YigitAku.Form1.resources
+C:\Users\Nur Seda\Desktop\YigitAku\obj\Debug\YigitAku.Properties.Resources.resources
+C:\Users\Nur Seda\Desktop\YigitAku\obj\Debug\YigitAku.csproj.GenerateResource.cache
+C:\Users\Nur Seda\Desktop\YigitAku\obj\Debug\YigitAku.csproj.CoreCompileInputs.cache
+C:\Users\Nur Seda\Desktop\YigitAku\bin\Debug\YigitAku.exe.config
+C:\Users\Nur Seda\Desktop\YigitAku\bin\Debug\YigitAku.exe
+C:\Users\Nur Seda\Desktop\YigitAku\bin\Debug\YigitAku.pdb
+C:\Users\Nur Seda\Desktop\YigitAku\bin\Debug\BusinessLayer.dll
+C:\Users\Nur Seda\Desktop\YigitAku\bin\Debug\DataAccessLayer.dll
+C:\Users\Nur Seda\Desktop\YigitAku\bin\Debug\BusinessLayer.pdb
+C:\Users\Nur Seda\Desktop\YigitAku\bin\Debug\DataAccessLayer.pdb
+C:\Users\Nur Seda\Desktop\YigitAku\obj\Debug\YigitAku.csproj.CopyComplete
+C:\Users\Nur Seda\Desktop\YigitAku\obj\Debug\YigitAku.exe
+C:\Users\Nur Seda\Desktop\YigitAku\obj\Debug\YigitAku.pdb

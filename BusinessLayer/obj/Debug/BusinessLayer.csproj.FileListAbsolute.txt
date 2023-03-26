@@ -1,0 +1,6 @@
+C:\Users\Nur Seda\Desktop\YigitAku\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Nur Seda\Desktop\YigitAku\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Nur Seda\Desktop\YigitAku\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Nur Seda\Desktop\YigitAku\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nur Seda\Desktop\YigitAku\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Nur Seda\Desktop\YigitAku\BusinessLayer\obj\Debug\BusinessLayer.pdb
